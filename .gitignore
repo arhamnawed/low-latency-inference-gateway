@@ -15,3 +15,7 @@ env/
 dist/
 build/
 *.log
+
+# Resume files (kept strictly local)
+resume*
+generate_resume.py
